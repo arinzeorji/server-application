@@ -1,0 +1,26 @@
+{
+  "name": "server-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "hbs": "^4.0.0",
+    "heroku": "^7.5.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arinzeorji/com325-projects.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arinzeorji/com325-projects/issues"
+  },
+  "homepage": "https://github.com/arinzeorji/com325-projects#readme",
+  "description": ""
+}
